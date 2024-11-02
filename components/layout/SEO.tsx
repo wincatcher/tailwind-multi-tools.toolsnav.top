@@ -175,7 +175,7 @@ const SEO = ({ isDark }: Props): JSX.Element => {
           media='(device-width: 320px) and (device-height: 568px) and (-webkit-device-pixel-ratio: 2) and (orientation: landscape)'
         />
       </>
-      <link rel='canonical' href='https://tailwindhelper.com' />
+      <link rel='canonical' href='https://tailwind-multi-tools.toolsnav.top/' />
       <link rel='manifest' href='/site.webmanifest' />
       <meta
         name='viewport'
@@ -191,13 +191,13 @@ const SEO = ({ isDark }: Props): JSX.Element => {
       <meta name='description' content={description} />
 
       <meta property='og:type' content='website' />
-      <meta property='og:url' content='https://www.tailwindhelper.com' />
+      <meta property='og:url' content='https://tailwind-multi-tools.toolsnav.top/' />
       <meta property='og:title' content={title} />
       <meta property='og:description' content={description} />
       <meta property='og:image' content='/og-image.png' />
 
       <meta property='twitter:card' content='summary' />
-      <meta property='twitter:url' content='https://www.tailwindhelper.com/' />
+      <meta property='twitter:url' content='https://tailwind-multi-tools.toolsnav.top/' />
       <meta property='twitter:title' content={title} />
       <meta property='twitter:creator' content='Seb Graf' />
       <meta property='twitter:description' content={description} />
