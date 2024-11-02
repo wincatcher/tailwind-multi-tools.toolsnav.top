@@ -68,7 +68,7 @@ const Header = ({ toggleThemeHandler, isDark }: Props): JSX.Element => {
               </svg>
             </div>
             <span className='block text-xl font-semibold dark:text-slate-300 text-gray-700 leading-[1.1]'>
-              Tailwindhelper
+              Tailwind multi tools
             </span>
           </h1>
         </a>

@@ -126,7 +126,7 @@ const Title = (): JSX.Element => {
                 </defs>
               </svg>
             </div>
-            <span className=''>Tailwindhelper</span>
+            <span className=''>Tailwind multi tools</span>
           </h1>
         </a>
       </Link>
