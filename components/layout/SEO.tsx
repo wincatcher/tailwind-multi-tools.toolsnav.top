@@ -12,6 +12,20 @@ const SEO = ({ isDark }: Props): JSX.Element => {
     <Head>
       <>
         <script
+          async
+          src="https://www.googletagmanager.com/gtag/js?id=G-XRESWQ6RM1"
+        />
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `
+              window.dataLayer = window.dataLayer || [];
+              function gtag(){dataLayer.push(arguments);}
+              gtag('js', new Date());
+              gtag('config', 'G-XRESWQ6RM1');
+            `,
+          }}
+        />
+        <script
           defer
           src="https://cloud.umami.is/script.js"
           data-website-id="cf76a6ca-cc96-4313-aef3-77379640c736"
