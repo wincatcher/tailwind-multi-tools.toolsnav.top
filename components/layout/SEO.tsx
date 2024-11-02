@@ -7,7 +7,7 @@ interface Props {
 const SEO = ({ isDark }: Props): JSX.Element => {
   const description =
     'A tailwind multi-tool to convert and visualize your classes properties.'
-  const title = 'Tailwind Multi Tools'
+  const title = 'Tailwind Multi-tools'
   return (
     <Head>
       <>
