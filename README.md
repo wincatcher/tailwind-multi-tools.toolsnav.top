@@ -6,14 +6,11 @@
 </div>
 
 <p align="center">
-    A Tailwindcss multi-tool
+    A Tailwind-CSS multi-tools helper for developers.
     <br />
-    <a href="https://tailwindhelper.com"><strong>Visit the website »</strong></a>
+    <a href="https://tailwind-multi-tools.toolsnav.top/"><strong>Visit the website »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/seb-graf/tailwind-helper/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/seb-graf/tailwind-helper/issues">Request Feature</a>
 </p>
 
 # What is it?
@@ -68,6 +65,12 @@ Simply use the Font size helper and then copy and paste the class into your html
 - Color picker
 
  <br />
+
+# Credits
+
+This project is based on [tailwind-helper](https://github.com/Seb-GRAF/tailwind-helper) by [Seb-GRAF](https://github.com/Seb-GRAF).
+
+<br />
 
 # License
 
