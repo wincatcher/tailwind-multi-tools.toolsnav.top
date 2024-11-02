@@ -11,6 +11,11 @@ const SEO = ({ isDark }: Props): JSX.Element => {
   return (
     <Head>
       <>
+        <script
+          defer
+          src="https://cloud.umami.is/script.js"
+          data-website-id="cf76a6ca-cc96-4313-aef3-77379640c736"
+        />
         <link
           rel='icon'
           type='image/png'
